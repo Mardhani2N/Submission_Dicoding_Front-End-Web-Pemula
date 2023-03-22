@@ -10,7 +10,15 @@
 }
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+    .row {
+        width: 100%;
+    }
+
     .column {
-        width: 90%;
+        width: 85%;
+    }
+
+    #book_shelf {
+        margin-left: 15px;
     }
 }
