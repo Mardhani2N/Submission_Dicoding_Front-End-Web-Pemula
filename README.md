@@ -3,5 +3,5 @@
 ## Course Dicoding : Belajar Membuat Front-End Web untuk Pemula
 Level : Dasar - Pemula
 
-Coding Scholarship dari IDCamp x KADIN 2023 dengan Alur Belajar Front-End Web Developer
+Coding Scholarship dari IDCamp x KADIN 2023 dengan Alur Belajar Front-End Web Developer <br>
 Access <a href='https://mardhani2n.github.io/Submission_Dicoding_Front-End-Web-Pemula/'> Here </a>
